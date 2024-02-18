@@ -27,7 +27,6 @@ int main() {
 
 	do{
 	
-
 		system("cls");
 		visualizzaLinea('%', 30);
 		cout << "cibi: " << endl;
